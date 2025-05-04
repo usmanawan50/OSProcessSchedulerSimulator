@@ -37,7 +37,7 @@ The scheduling is done by implementing a multiqueue system. Processes are insert
 ## Usage/Examples
 
 ![Demo GIF](output.gif)
-<br>(Microsoft Visual Studio)
+
 
 
 
